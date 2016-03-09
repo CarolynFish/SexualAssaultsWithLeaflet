@@ -1,0 +1,1030 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Natural Light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85445868968964,
+          40.79609717757939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Cards",
+        "Miller Lite": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85416096448898,
+          40.796117482959694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Pair of Socks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85406172275543,
+          40.79595910082863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Natural Light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85389542579651,
+          40.79602001707759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Solo Cup"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85388469696045,
+          40.796017986536874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Natural Light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85389542579651,
+          40.79602204761827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Natural Light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85351991653442,
+          40.79585757362282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Genesee Cream Ale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85259455442429,
+          40.7953600880699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Solo Cup"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85256236791611,
+          40.795362118630756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Solo Cup"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85255700349808,
+          40.7953600880699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Solo Cup"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8523987531662,
+          40.795293079526864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Solo Cup"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85238534212112,
+          40.795293079526864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Scarf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85235047340393,
+          40.7952829267114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Solo Cup"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85233438014984,
+          40.79526059051195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Vladamir Vodka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8522726893425,
+          40.79528089614812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Solo Cup"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85220831632614,
+          40.795213887525165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Natural Light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85158336162567,
+          40.79496818866232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Solo Cup"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85242825746535,
+          40.79410112838415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Solo Cup"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85356551408768,
+          40.79480371205596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Natural Light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85359770059586,
+          40.794819956677216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Natural Ice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85369694232939,
+          40.79489914914879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Bud Light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85371840000153,
+          40.794903210298635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Bud Light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8536593914032,
+          40.79501489182195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Geek Glasses"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8534984588623,
+          40.794960066370344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Bud Light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85392493009567,
+          40.79515906223791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Solo Cup"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85403490066528,
+          40.795118450884786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Coors"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85404831171036,
+          40.79509408406101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Natural Light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85425215959549,
+          40.79521794865575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Natural Light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85425752401352,
+          40.79526059051195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Solo Cup"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85426825284958,
+          40.795266682203476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Solo Cup"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8550997376442,
+          40.7953154157154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Solo Cup"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85511046648026,
+          40.795548929963644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Natural Light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85517752170563,
+          40.79546973826715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Natural Light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85525530576706,
+          40.7953377518964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Solo Cup"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85535454750061,
+          40.79521591809051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Baloon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8536057472229,
+          40.79424530078437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "ribbon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85296201705933,
+          40.793558956132905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Busch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8531014919281,
+          40.79342899658343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Miller Lite"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85334289073944,
+          40.79353458873676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Bud Light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85328924655914,
+          40.79350209886132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Sock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85342872142792,
+          40.793558956132905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Natural Ice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85360038280487,
+          40.79361581335584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Budweiser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85354137420654,
+          40.7937579562001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Solo Cup"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85347431898116,
+          40.793595507210384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Apple Sauce"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85365134477615,
+          40.79367267053006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85370498895645,
+          40.793727497044806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Natural Light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85397857427596,
+          40.79381887446877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Solo Cup"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85413146018982,
+          40.793745772539665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85407781600952,
+          40.79374780314989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Natural Light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8541448712349,
+          40.793599568439966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Natural Light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85417169332504,
+          40.7935569255169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8542709350586,
+          40.79344930277978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85430312156677,
+          40.793400567898054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8543272614479,
+          40.793347771735775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85434603691101,
+          40.79328482241054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85487174987793,
+          40.792963982986755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85503536462784,
+          40.792758888618756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bud Light": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85511583089828,
+          40.79251115002248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bud Light": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85525530576706,
+          40.79226950246832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Keystone Light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85423874855042,
+          40.79190195282163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Bud Light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85437285900116,
+          40.79180651142039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85439163446426,
+          40.79183291011957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Natural Light": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85453647375107,
+          40.79189383015453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Solo Cup": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85455524921417,
+          40.79191413682043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Miller Lite": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8546866774559,
+          40.7919709954519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Woman's Long Glove": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85470277070998,
+          40.7919709954519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Southern Comfort": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85503268241882,
+          40.792149693690966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85550743341446,
+          40.79239540298443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Solo Cup": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85554498434067,
+          40.7925375484415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Coors": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85571932792664,
+          40.792614712990755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Solo Cup": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85574346780777,
+          40.79263095814757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Natural Ice": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85578638315201,
+          40.792657356518966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85614848136902,
+          40.792714214513964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Natural Ice": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85610556602478,
+          40.79270000001979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Solo Cup": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85603046417236,
+          40.79266344844933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Natural Light": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85629868507385,
+          40.792955860449595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85617262125015,
+          40.79303911640857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Natural Light": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85629332065582,
+          40.79308988218598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Solo Cup": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.85468131303787,
+          40.7919669341227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Type": "Bud Light"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8543969988823,
+          40.79183291011957
+        ]
+      }
+    }
+  ]
+}
