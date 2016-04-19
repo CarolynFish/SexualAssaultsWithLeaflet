@@ -15,7 +15,7 @@
   <script>
 
   // initialize the map
-  var map = L.map('map').setView([40.7979459, -77.8630698], 13);
+  var map = L.map('map').setView([40.7979459, -77.8630698 ], 13);
   //var map = L.map('map').setView([40.7979459, -77.8630698], 15);
 
   // load a tile layer
@@ -27,10 +27,20 @@
     }).addTo(map);
 
     // load GeoJSON from an external file
-  $.getJSON("assaults.geojson",function(data){
+  $.getJSON("residencies.geojson",function(resData){
+    L.geoJson(resData).addTo(map);
+  });
+
+  $.getJSON("fraternities.geojson",function(fratData){
+    L.geoJson(fratData).addTo(map);
+  });
+
+  // load GeoJSON from an external file
+  $.getJSON("SexualAssaults.geojson",function(data){
     // add GeoJSON layer to the map once the file is loaded
     L.geoJson(data).addTo(map);
   });
+
 
   </script>
 </body>
